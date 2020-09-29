@@ -1,0 +1,20 @@
+
+.green {
+  grid-area: superv;
+  border-top: 5px solid #45d3d3;
+}
+
+.red {
+  grid-area: team;
+  border-top: 5px solid red;
+}
+
+.yellow {
+  grid-area: karma;
+  border-top: 5px solid #fcaf4a;
+}
+
+.blue {
+  grid-area: calc;
+  border-top: 5px solid #549ef2;
+}
