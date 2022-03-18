@@ -46,7 +46,7 @@ function App() {
                  </div>
                 </div>
                     <input type="submit" className="btn" value="Register" />
-                    <h4>Already a User? <a href="login1.html" className="new">Login</a></h4>
+                    <h4>Already have an account? <a href="login1.html" className="new">Login</a></h4>
                 </form>
             </div>
         </div>
