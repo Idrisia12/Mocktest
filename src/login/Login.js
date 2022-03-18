@@ -38,7 +38,7 @@ function App() {
                          <input type="password" className="input" placeholder="Password" />
                     </div>
                  </div>
-                 <a href="forget.html" className="forgot">Forgot Password?</a>
+                 <a href="forget.html" className="forgot">Forgot Your Password?</a>
                     <input type="submit" className="btn" value="Login" />
                     <h4>New Here? <a href="register1.html" className="new">Sign Up</a></h4>
                 </form>
